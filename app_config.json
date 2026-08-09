@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.0",
-  "minRequiredVersion": "2.0.0",
+  "latestVersion": "1.0.0",
+  "minRequiredVersion": "0.0.0",
   "updateUrl": "https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME",
   "updateTitle": "يتوفر تحديث جديد",
   "updateMessage": "أضفنا تحسينات كبيرة على التطبيق، يجب التحديث للمتابعة."
